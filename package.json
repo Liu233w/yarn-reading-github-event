@@ -1,0 +1,12 @@
+{
+  "name": "pnpm-reading-github-event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node hello.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
